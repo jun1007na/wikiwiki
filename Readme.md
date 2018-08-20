@@ -16,6 +16,8 @@ Wikiwiki(Cardinal-Notes)
 ## Usage
 execute index.html
 
+or [https://jun1007na.github.io/wikiwiki/](https://jun1007na.github.io/wikiwiki/)
+
 ## Author
 
 [Jun](https://github.com/jun1007na)
